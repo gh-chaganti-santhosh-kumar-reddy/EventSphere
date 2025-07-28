@@ -4973,17 +4973,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\91918\\Desktop\\LTITrumio\\NewDemp2\\backend\\project.csproj",
+      "projectUniqueName": "C:\\Users\\91918\\Desktop\\LTITrumio\\NewDemp2\\EventSphere\\backend\\project.csproj",
       "projectName": "project",
-      "projectPath": "C:\\Users\\91918\\Desktop\\LTITrumio\\NewDemp2\\backend\\project.csproj",
+      "projectPath": "C:\\Users\\91918\\Desktop\\LTITrumio\\NewDemp2\\EventSphere\\backend\\project.csproj",
       "packagesPath": "C:\\Users\\91918\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\91918\\Desktop\\LTITrumio\\NewDemp2\\backend\\obj\\",
+      "outputPath": "C:\\Users\\91918\\Desktop\\LTITrumio\\NewDemp2\\EventSphere\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\91918\\Desktop\\LTITrumio\\NewDemp2\\backend\\NuGet.Config",
+        "C:\\Users\\91918\\Desktop\\LTITrumio\\NewDemp2\\EventSphere\\backend\\NuGet.Config",
         "C:\\Users\\91918\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
